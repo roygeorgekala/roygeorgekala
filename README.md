@@ -8,7 +8,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roygeorgekala&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roygeorgekala&hide=css&langs_count=10&custom_title=Roy's+Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roygeorgekala&hide=css,html&langs_count=10&custom_title=Roy's+Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
