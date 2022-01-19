@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing my Bachelors in Computer Science Engineering
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roygeorgekala&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Roy's+GitHub+Activity&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roygeorgekala&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Roy's+GitHub+Activity)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roygeorgekala&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
