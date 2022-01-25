@@ -2,7 +2,9 @@
 - 👀 I’m interested in everything techy!
 - 🎉 Current focus is on Computer Vision, AIML and Python specific tasks
 - 🌱 I’m currently pursuing my Bachelors in Computer Science Engineering
-
+- 📫 How to find me: 
+  - :bulb: [Gmail](mailto:roygeorgekala@gmail.com)
+  - :office: [LinkedIn](https://www.linkedin.com/in/roygeorge13/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roygeorgekala&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Roy's+GitHub+Activity)](https://github.com/anuraghazra/github-readme-stats)
 
