@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roygeorgekala
 - 👀 I’m interested in everything techy!
-- 🎉 Current focus is on Computer Vision, AIML and Python specific tasks
+- 🎉 Current focuses are Computer Vision, AIML and Python specific tasks
 - 🌱 I’m currently pursuing my Bachelors in Computer Science Engineering
 - 📫 How to find me: 
   - :bulb: [Gmail](mailto:roygeorgekala@gmail.com)
